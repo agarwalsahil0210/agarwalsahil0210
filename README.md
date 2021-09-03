@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://www.linkedin.com/in/sahil-agarwal-405579166">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg />
 </a>
 
 <a href="https://www.instagram.com/agarwalsahil_">
-<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
