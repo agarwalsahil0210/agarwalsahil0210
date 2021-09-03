@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 ---
 - 📫 Connect with me:
 <a href="https://twitter.com/_agarwalsahil">
-<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img width="22px" padding="5px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
 <a href="https://www.linkedin.com/in/sahil-agarwal-405579166">
-<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img width="22px" padding="5px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <a href="https://www.instagram.com/agarwalsahil_">
-<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img width="22px" padding="5px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
