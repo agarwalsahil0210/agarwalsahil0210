@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ---
 - 📫 Connect with me:
 <a href="https://twitter.com/_agarwalsahil">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
 <a href="https://www.linkedin.com/in/sahil-agarwal-405579166">
