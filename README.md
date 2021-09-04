@@ -1,6 +1,8 @@
 ### Hi there 👋 I am Sahil Agarwal
 
-- 🔭 I’m currently working on application development with flutter.
+- 🔭 I’m currently working on Web Development in MERN stack.
+- 👯 I’m looking to collaborate on projects.
+- 💬 Ask me about lofi songs.
 
 <!--
 **agarwalsahil0210/agarwalsahil0210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
