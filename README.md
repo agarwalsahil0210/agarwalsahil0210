@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Sahil Agarwal
 
-- 🔭 I’m currently working on flutter Development. 
+- 🔭 I’m currently working on App Development with flutter. 
 - 🤔 I’m looking for help with web development in MERN stack.
 - 👯 I’m looking to collaborate on projects.
 - 💬 Ask me about lofi songs.
