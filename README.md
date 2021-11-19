@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on App Development with flutter. 
 - 🤔 I’m looking for help with web development in MERN stack.
 - 👯 I’m looking to collaborate on projects.
-- 💬 Ask me about lofi songs.
+
 
 <!--
 **agarwalsahil0210/agarwalsahil0210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
