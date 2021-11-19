@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📫 Connect with me:
-       <a href="https://twitter.com/_agarwalsahil">
+- 📫 Connect with me: <a href="https://twitter.com/_agarwalsahil">
 <img width="22px" padding="5px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
